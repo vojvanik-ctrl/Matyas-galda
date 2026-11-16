@@ -5,7 +5,8 @@
   "scripts": {
     "build": "node build.mjs",
     "serve": "node tools/serve.mjs dist 8080",
-    "start": "npm run build && npm run serve"
+    "start": "npm run build && npm run serve",
+    "publish:root": "node build.mjs && node tools/copy-to-repo-root.mjs"
   },
   "license": "UNLICENSED",
   "devDependencies": {

@@ -1,5 +1,11 @@
 # Changelog
 
+## v8.1 — 16 Nov 2026: GitHub Pages layout
+
+- The repository root now holds the built site: `index.html`, project pages, `assets/`, `portfolio.json` and `assets/fmk/`. GitHub Pages publishes it with "Deploy from a branch: main / (root)".
+- The editable project moved to `source/`. `npm run publish:root` builds it and copies `dist/` to the root.
+- Removed the GitHub Actions workflow, which needed a different Pages setting.
+
 ## v8 — 16 Nov 2026: Selected work carousel
 
 ### Selected work carousel
