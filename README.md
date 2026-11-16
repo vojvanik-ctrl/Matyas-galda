@@ -38,4 +38,4 @@ The site is published from the **`gh-pages`** branch, root folder. That branch h
 
 ## FMK gallery manifest
 
-`portfolio.json` lives next to `index.html`. Its portrait paths (`assets/fmk/...`) are relative, so they work at github.io and through studentifmk.work. `portfolioUrl` stays `null` until the gallery address is live. Then set it to `https://studentifmk.work/matyas-galda/` in `source/public/portfolio.json` and run `npm run publish:root` again.
+`portfolio.json` lives next to `index.html`. Its portrait paths (`assets/fmk/...`) are relative, so they work at github.io and through studentifmk.work. `portfolioUrl` is `https://studentifmk.work/matyas-galda/`, the address in the FMK gallery. Edit `source/public/portfolio.json` and run `npm run publish:root` to change any of these fields.
