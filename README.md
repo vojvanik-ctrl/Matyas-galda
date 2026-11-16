@@ -26,11 +26,15 @@ The files at the top level are generated. GitHub Pages publishes them directly, 
    npm run publish:root
    ```
    This builds the site and copies the result to the repository root.
-3. Commit and push. GitHub Pages updates within a minute or two.
+3. Commit, then push to both branches:
+   ```bash
+   git push origin main main:gh-pages
+   ```
+   GitHub Pages updates within a minute or two.
 
 ## GitHub Pages setting
 
-Settings → Pages → Build and deployment → Source: **Deploy from a branch**, Branch: **main**, Folder: **/ (root)**.
+The site is published from the **`gh-pages`** branch, root folder. That branch holds the same commit as `main`; GitHub switched Pages on automatically when it was created. To publish straight from `main` instead, set Settings → Pages → Build and deployment → Source: **Deploy from a branch**, Branch: **main**, Folder: **/ (root)**. After that, `gh-pages` can be deleted and a plain `git push` is enough.
 
 ## FMK gallery manifest
 

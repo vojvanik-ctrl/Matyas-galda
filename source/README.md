@@ -27,7 +27,7 @@ node tools/serve.mjs dist 8080 /matyas-galda/   # http://localhost:8080/matyas-g
 
 All links and asset paths are relative, so `dist/` works at a domain root or in any subfolder. Project pages are plain files (`last-breath.html` and so on), so direct loading and refresh work on any static host without rewrite rules.
 
-**This repository** publishes the built site from the repository root (Settings → Pages → Deploy from a branch → `main` → `/ (root)`). After any change, run `npm run publish:root` inside `source/`: it builds `dist/` and copies it to the root, replacing only the generated files. Then commit and push.
+**This repository** publishes the built site from the repository root of the `gh-pages` branch, which carries the same commit as `main`. After any change, run `npm run publish:root` inside `source/`: it builds `dist/` and copies it to the root, replacing only the generated files. Then commit and push to both branches with `git push origin main main:gh-pages`. If Pages is later set to publish from `main` (Settings → Pages), pushing `main` alone is enough.
 
 **Elsewhere:** upload the *contents* of `dist/` (including `.nojekyll`) to any static host.
 
