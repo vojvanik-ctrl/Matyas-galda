@@ -1,0 +1,19 @@
+{
+  "name": "matyas-galda-portfolio",
+  "version": "1.0.0",
+  "description": "Concept art portfolio of Matyáš Galda (static site).",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node tools/serve.mjs dist 8080",
+    "start": "npm run build && npm run serve"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18.17"
+  }
+}

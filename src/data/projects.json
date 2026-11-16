@@ -1,0 +1,205 @@
+[
+  {
+    "slug": "last-breath",
+    "title": "Last Breath",
+    "kind": "Personal game concept · Concept art",
+    "summary": "An original game concept inspired by tenth-century Slavic, Celtic and Nordic folklore, with creature studies.",
+    "intro": [
+      "An original game concept I'm developing, inspired by tenth-century Slavic, Celtic and Nordic folklore."
+    ],
+    "details": [
+      {
+        "label": "Type",
+        "value": "Personal game concept, in progress"
+      },
+      {
+        "label": "Focus",
+        "value": "Concept art and creature studies"
+      },
+      {
+        "label": "Process",
+        "value": "Digital painting and photobashing"
+      },
+      {
+        "label": "Inspiration",
+        "value": "Tenth-century Slavic, Celtic and Nordic folklore"
+      }
+    ],
+    "card": {
+      "cover": "assets/covers/last-breath-cover.webp",
+      "media": [
+        0
+      ],
+      "position": "50% 42%"
+    },
+    "keyVisual": 0,
+    "media": [
+      {
+        "file": "last-breath/01-goat-concept.webp",
+        "crop": {
+          "top": 52,
+          "bottom": 78
+        },
+        "caption": "Goat creature concept",
+        "alt": "Grey pencil-style concept of a goat-like creature with huge curled horns and a carved symbol on its brow"
+      },
+      {
+        "file": "last-breath/02-environment-concept.webp",
+        "caption": "Environment concept",
+        "alt": "Blue-toned environment concept of dark, snow-dusted cliffs"
+      },
+      {
+        "file": "last-breath/03-character-silhouettes.webp",
+        "caption": "Character silhouettes",
+        "alt": "Sheet of dark humanoid creature silhouettes, several with antler- or branch-like heads"
+      },
+      {
+        "file": "last-breath/04-creature-concepts.webp",
+        "caption": "Creature concepts",
+        "alt": "Three full-body creature concepts in grey tones, from a hunched figure to a tall spiked one"
+      },
+      {
+        "file": "last-breath/05-creature-head-studies.webp",
+        "crop": {
+          "top": 55,
+          "bottom": 80
+        },
+        "caption": "Creature head studies",
+        "alt": "Three studies of a beaked creature head with its mouth open"
+      }
+    ]
+  },
+  {
+    "slug": "forgotten-realms",
+    "title": "Forgotten Realms",
+    "kind": "Semester board game · Visual design",
+    "summary": "Artwork and visual style for an original board game, made as a semester project.",
+    "intro": [
+      "A semester project about creating an original board game. I worked on its artwork and visual style."
+    ],
+    "details": [
+      {
+        "label": "Type",
+        "value": "Semester project"
+      },
+      {
+        "label": "Focus",
+        "value": "Board game art and visual design"
+      },
+      {
+        "label": "Includes",
+        "value": "Boss art, icons, card back and card front"
+      }
+    ],
+    "card": {
+      "cover": "assets/covers/forgotten-realms-cover.webp",
+      "media": [
+        0
+      ],
+      "position": "50% 50%"
+    },
+    "keyVisual": 0,
+    "media": [
+      {
+        "file": "forgotten-realms/01-boss-art.webp",
+        "caption": "Boss art",
+        "alt": "Boss artwork: a hooded, tentacled figure with a golden eye above a translucent yellow cube"
+      },
+      {
+        "file": "forgotten-realms/02-icon-sheet.webp",
+        "caption": "Icon sheet",
+        "alt": "Sheet of eight black-and-white game icons on a dark grey background"
+      },
+      {
+        "file": "forgotten-realms/03-card-back.webp",
+        "caption": "Card back",
+        "alt": "Black card back with a sword inside a ring of fire"
+      },
+      {
+        "file": "forgotten-realms/04-card-front.webp",
+        "caption": "Card front",
+        "alt": "Card front layout with a glowing blue frame, a gold cost token and an empty text box"
+      }
+    ]
+  },
+  {
+    "slug": "ferrugo",
+    "title": "Ferrugo",
+    "kind": "Semester game prototype · Unreal Engine 5 · 2025/2026",
+    "summary": "An open-world action prototype in Unreal Engine 5 that switches between 2D and 3D play.",
+    "intro": [
+      "An open-world action prototype set on a desolate future colony, switching between 2D and 3D play.",
+      "After a catastrophe known as the Great Dawn, the abandoned colony has lost its technology and contact with other colonies, and its survivors have split into rival factions."
+    ],
+    "details": [
+      {
+        "label": "Context",
+        "value": "Semester project, Ateliér Game Design, FMK UTB"
+      },
+      {
+        "label": "Year",
+        "value": "2025/2026"
+      },
+      {
+        "label": "Engine",
+        "value": "Unreal Engine 5"
+      },
+      {
+        "label": "Play",
+        "value": "Open world, action, 2D/3D switching"
+      }
+    ],
+    "links": [
+      {
+        "label": "Play on itch.io",
+        "url": "https://gandalfblack.itch.io/ferrugo"
+      },
+      {
+        "label": "View on FMK UTB",
+        "url": "https://showcase.fmk.utb.cz/en/game-design/ferrugo-game-prototype/"
+      }
+    ],
+    "credit": "Description and images from the official FMK UTB showcase page.",
+    "source": "https://showcase.fmk.utb.cz/game-design/ferrugo-game-prototype/",
+    "card": {
+      "media": [
+        0
+      ],
+      "position": "45% 50%"
+    },
+    "keyVisual": 0,
+    "media": [
+      {
+        "file": "ferrugo/01-Screenshot_gameplay_1-1-1024x423.png",
+        "caption": "Gameplay",
+        "alt": "Gameplay screenshot of a neon-lit colony street at night"
+      },
+      {
+        "file": "ferrugo/02-Screenshot_gameplay_2-2-1024x586.png",
+        "caption": "Gameplay",
+        "alt": "Gameplay screenshot with a blue-robed character facing a spiky yellow creature"
+      },
+      {
+        "file": "ferrugo/03-Screenshot_level_1-1-1024x428.jpg",
+        "caption": "Level preview",
+        "alt": "Wide view of the colony's crowded, red-lit buildings"
+      },
+      {
+        "file": "ferrugo/04-2D_Assety_1-1-1024x576.png",
+        "caption": "2D game assets",
+        "alt": "Sheet of hand-painted 2D assets: ladders, painted flags, vents, crates and small props"
+      },
+      {
+        "file": "ferrugo/05-Screenshot_3D_assets_1-480x257.png",
+        "caption": "3D game assets",
+        "alt": "Three stylised 3D props: a jar marked Water, a lamp and a painted barrel",
+        "small": true
+      },
+      {
+        "file": "ferrugo/06-Character_sprite_sheet_1-1-1024x694.png",
+        "caption": "Character sprite sheet",
+        "alt": "Sprite sheet of a round, wheel-like character in eight frames"
+      }
+    ]
+  }
+]

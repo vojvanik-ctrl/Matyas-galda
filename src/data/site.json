@@ -1,0 +1,56 @@
+{
+  "_note": "Name comes from public/portfolio.json (shared with the FMK gallery). Everything else on the site is edited here and in projects.json.",
+  "lang": "en",
+  "tagline": "Concept artist",
+  "metaDescription": "Concept art portfolio of Matyáš Galda, a Game Design student at Tomas Bata University in Zlín.",
+  "headline": [
+    "Worlds drawn",
+    "from folklore."
+  ],
+  "intro": "I'm Matyáš Galda, a Game Design student at Tomas Bata University in Zlín. My concept art combines digital painting and photobashing with history, culture and impossible proportions.",
+  "heroAlt": "Pencil-style drawing of an artist, seen from behind and to the side, sketching a spired castle on a large pad",
+  "about": [
+    "I'm studying Game Design at the Faculty of Multimedia Communications, Tomas Bata University in Zlín. I like working with unrealistic proportions, folklore and technology, and I lean on cultures, history and historic events to make the imagined parts of my art feel real.",
+    "I work both on my own and in a team, and I pick up new tools quickly."
+  ],
+  "cv": {
+    "education": [
+      {
+        "school": "Tomas Bata University in Zlín",
+        "faculty": "Faculty of Multimedia Communications",
+        "programme": "Game Design, Bachelor of Arts programme",
+        "status": "Currently studying · expected 2028"
+      }
+    ],
+    "skills": [
+      "2D creation and concept art",
+      "Digital painting and photobashing",
+      "3D modelling",
+      "Animation",
+      "Unreal Engine",
+      "Unity",
+      "Photogrammetry"
+    ],
+    "languages": [
+      "English",
+      "Polish",
+      "German"
+    ]
+  },
+  "contact": {
+    "lead": "For questions about my work or a collaboration, write to me.",
+    "email": "matyasgalda@gmail.com",
+    "links": [
+      {
+        "label": "Instagram",
+        "handle": "@_gandalf_black_",
+        "url": "https://www.instagram.com/_gandalf_black_/"
+      },
+      {
+        "label": "ArtStation",
+        "handle": "gandalf_8_black",
+        "url": "https://www.artstation.com/gandalf_8_black"
+      }
+    ]
+  }
+}
